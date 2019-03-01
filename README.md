@@ -229,3 +229,6 @@ ggplot(tomatoXL[1:891,], aes(x = family.size, fill = Survived)) +
   ylab("Total Count") +
   ylim(0,300) +
   labs(fill = "Survived")
+
+
+###新添加
